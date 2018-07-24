@@ -13,7 +13,7 @@ By answering 10 questions with responses ranging from 1 (Strongly Disagree) to 5
 + Heroku
 
 ### Try the app on Heroku!
-[Click HERE to try Friend Finder for yourself!](https://findfriendsapp.herokuapp.com/)
+[Click HERE to try *Friend Finder* for yourself!](https://findfriendsapp.herokuapp.com/)
 
 ### Author
 Mike Graham
